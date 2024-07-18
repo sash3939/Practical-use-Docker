@@ -37,6 +37,22 @@ See 'snap info docker' for additional versions.
 !!! В процессе последующего выполнения ДЗ НЕ изменяйте содержимое файлов в fork-репозитории! Ваша задача ДОБАВИТЬ 5 файлов: ```Dockerfile.python```, ```compose.yaml```, ```.gitignore```, ```.dockerignore```,```bash-скрипт```. Если вам понадобилось внести иные изменения в проект - вы что-то делаете неверно!
 ---
 
+## Решение 1
+1. Сделан fork репозитория. Работа проводится в нем. По результатам скину ссылку на fork в данный репозиторий, где описываю действия.
+   ## https://github.com/sash3939/shvirtd-example-python ##
+   
+3. Create files  
+
+![image](https://github.com/user-attachments/assets/79ebd33d-b5a9-48e1-ad9d-176684d77ab8)
+---
+
+3. Mysql container with venv
+
+![image](https://github.com/user-attachments/assets/f2a2ec9c-1697-4fae-98c1-6df72d2b7c2f)
+---
+
+
+
 ## Задача 2 (*)
 1. Создайте в yandex cloud container registry с именем "test" с помощью "yc tool" . [Инструкция](https://cloud.yandex.ru/ru/docs/container-registry/quickstart/?from=int-console-help)
 2. Настройте аутентификацию вашего локального docker в yandex container registry.
