@@ -25,8 +25,6 @@ See 'snap info docker' for additional versions.
 ![Docker Compose version](https://github.com/user-attachments/assets/3cde1cd9-d172-4256-9846-eae8f0c8cb20)
 ---
 
----
-
 ## Задача 1
 1. Сделайте в своем github пространстве fork репозитория ```https://github.com/netology-code/shvirtd-example-python/blob/main/README.md```.   
 2. Создайте файл с именем ```Dockerfile.python``` для сборки данного проекта(для 3 задания изучите https://docs.docker.com/compose/compose-file/build/ ). Используйте базовый образ ```python:3.9-slim```. Протестируйте корректность сборки. Не забудьте dockerignore. 
@@ -49,6 +47,14 @@ See 'snap info docker' for additional versions.
 3. Mysql container with venv
 
 ![image](https://github.com/user-attachments/assets/f2a2ec9c-1697-4fae-98c1-6df72d2b7c2f)
+---
+
+4. [localhost:5000](http://localhost:5000/)
+
+![image](https://github.com/user-attachments/assets/1ef50e76-fddf-4272-a01e-a6ac4c3b80c2)
+---
+
+![app.py](https://github.com/user-attachments/assets/66da3a3c-3afd-42e1-9d39-fa00aaf291d9)
 ---
 
 
