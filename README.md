@@ -39,7 +39,7 @@ See 'snap info docker' for additional versions.
 1. Сделан fork репозитория. Работа проводится в нем. По результатам скину ссылку на fork в данный репозиторий, где описываю действия.
    ## https://github.com/sash3939/shvirtd-example-python ##
    
-3. Create files  
+2. Create files  
 
 ![image](https://github.com/user-attachments/assets/79ebd33d-b5a9-48e1-ad9d-176684d77ab8)
 ---
@@ -65,6 +65,24 @@ See 'snap info docker' for additional versions.
 3. Соберите и залейте в него образ с python приложением из задания №1.
 4. Просканируйте образ на уязвимости.
 5. В качестве ответа приложите отчет сканирования.
+
+## Решение 2
+
+1. Container registry test
+
+![image](https://github.com/user-attachments/assets/3f4ba550-b081-4c74-ab03-9ca5eebe9a65)
+---
+
+2. Настройте аутентификацию вашего локального docker в yandex container registry
+
+![image](https://github.com/user-attachments/assets/4eee551c-a1ab-4db8-a507-ac86f1923cd7)
+---
+
+![image](https://github.com/user-attachments/assets/ff9a3cdd-8b4f-423e-a4db-01250583d0df)
+---
+
+![image](https://github.com/user-attachments/assets/dade5828-67cc-4c43-b6b1-0f65e42e7bbc)
+---
 
 ## Задача 3
 1. Изучите файл "proxy.yaml"
