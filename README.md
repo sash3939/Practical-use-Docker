@@ -78,11 +78,23 @@ See 'snap info docker' for additional versions.
 ![image](https://github.com/user-attachments/assets/4eee551c-a1ab-4db8-a507-ac86f1923cd7)
 ---
 
-![image](https://github.com/user-attachments/assets/ff9a3cdd-8b4f-423e-a4db-01250583d0df)
+![image](https://github.com/user-attachments/assets/b58d06c2-e585-4f03-a295-c86f49530f21)
 ---
+
+3.Заливка образа в YC
 
 ![image](https://github.com/user-attachments/assets/dade5828-67cc-4c43-b6b1-0f65e42e7bbc)
 ---
+
+4,5. Сканирование yc container registry update --name test --scanners vuln
+
+![image](https://github.com/user-attachments/assets/fcb6349a-a90b-4452-b785-5a9a1436a823)
+---
+
+![image](https://github.com/user-attachments/assets/ba601810-05e8-4b4a-a710-7e4bf8008594)
+---
+
+
 
 ## Задача 3
 1. Изучите файл "proxy.yaml"
