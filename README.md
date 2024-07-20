@@ -66,6 +66,13 @@ Docker version 24.0.5, build ced0996
 1. Сделан fork репозитория. Работа проводится в нем. По результатам скину ссылку на fork в данный репозиторий, где описываю действия.
    ## https://github.com/sash3939/shvirtd-example-python ##
 
+2.   
+
+3.   
+
+4.
+
+
 
 ## Задача 2 (*)
 1. Создайте в yandex cloud container registry с именем "test" с помощью "yc tool" . [Инструкция](https://cloud.yandex.ru/ru/docs/container-registry/quickstart/?from=int-console-help)
