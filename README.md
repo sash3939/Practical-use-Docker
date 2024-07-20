@@ -22,8 +22,7 @@ See 'snap info docker' for additional versions.
 
 ## Решение 0
 
-![Docker Compose version](https://github.com/user-attachments/assets/3cde1cd9-d172-4256-9846-eae8f0c8cb20)
----
+
 
 ## Задача 1
 1. Сделайте в своем github пространстве fork репозитория ```https://github.com/netology-code/shvirtd-example-python/blob/main/README.md```.   
@@ -38,28 +37,6 @@ See 'snap info docker' for additional versions.
 ## Решение 1
 1. Сделан fork репозитория. Работа проводится в нем. По результатам скину ссылку на fork в данный репозиторий, где описываю действия.
    ## https://github.com/sash3939/shvirtd-example-python ##
-   
-2. Create files  
-
-![image](https://github.com/user-attachments/assets/79ebd33d-b5a9-48e1-ad9d-176684d77ab8)
----
-
-3. Mysql container with venv
-
-![image](https://github.com/user-attachments/assets/196ebcab-89fb-43ac-b6d2-33b1f588dda9)
----
-
-![image](https://github.com/user-attachments/assets/e3a75847-283a-4c50-9857-5a650e7cd8a7)
----
-
-4. [localhost:5000](http://localhost:5000/)
-
-![image](https://github.com/user-attachments/assets/1ef50e76-fddf-4272-a01e-a6ac4c3b80c2)
----
-
-![app.py](https://github.com/user-attachments/assets/66da3a3c-3afd-42e1-9d39-fa00aaf291d9)
----
-
 
 
 ## Задача 2 (*)
@@ -71,31 +48,8 @@ See 'snap info docker' for additional versions.
 
 ## Решение 2
 
-1. Container registry test
 
-![image](https://github.com/user-attachments/assets/3f4ba550-b081-4c74-ab03-9ca5eebe9a65)
----
 
-2. Настройте аутентификацию вашего локального docker в yandex container registry
-
-![image](https://github.com/user-attachments/assets/4eee551c-a1ab-4db8-a507-ac86f1923cd7)
----
-
-![image](https://github.com/user-attachments/assets/b58d06c2-e585-4f03-a295-c86f49530f21)
----
-
-3.Заливка образа в YC
-
-![image](https://github.com/user-attachments/assets/dade5828-67cc-4c43-b6b1-0f65e42e7bbc)
----
-
-4,5. Сканирование yc container registry update --name test --scanners vuln
-
-![image](https://github.com/user-attachments/assets/fcb6349a-a90b-4452-b785-5a9a1436a823)
----
-
-![image](https://github.com/user-attachments/assets/ba601810-05e8-4b4a-a710-7e4bf8008594)
----
 
 
 
