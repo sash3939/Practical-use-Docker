@@ -22,6 +22,32 @@ See 'snap info docker' for additional versions.
 
 ## Решение 0
 
+1. После установленной убунту с диском VHD на 100Гб, а также установленными guest additions и настроенными sources.list и созданными пользователями в группе root, можно начать лабу. (стоит это пояснять)
+
+2. Проверяем, что у нас не установлен docker-compose. Должно быть так
+
+docker-compose --version
+Command 'docker-compose' not found, but can be installed with:
+
+sudo snap install docker          # version 24.0.5, or
+sudo apt  install docker-compose  # version 1.25.0-1
+
+See 'snap info docker' for additional versions.
+
+3. Устанавливаем docker compose версии не менее 2.24. Конечно у нас уже должен быть установлен docker заранее
+
+Это установка compose   
+DOCKER_CONFIG=${DOCKER_CONFIG:-$HOME/.docker}
+mkdir -p $DOCKER_CONFIG/cli-plugins
+curl -SL https://github.com/docker/compose/releases/download/v2.29.0/docker-compose-linux-x86_64 -o $DOCKER_CONFIG/cli-plugins/docker-compose
+
+и проверяем 
+---
+docker compose --version
+Docker version 24.0.5, build ced0996
+
+![image](https://github.com/user-attachments/assets/d356ca02-2ec8-4394-b19e-888ca4b45d2a)
+---
 
 
 ## Задача 1
