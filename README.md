@@ -49,6 +49,9 @@ See 'snap info docker' for additional versions.
 ![image](https://github.com/user-attachments/assets/196ebcab-89fb-43ac-b6d2-33b1f588dda9)
 ---
 
+![image](https://github.com/user-attachments/assets/e3a75847-283a-4c50-9857-5a650e7cd8a7)
+---
+
 4. [localhost:5000](http://localhost:5000/)
 
 ![image](https://github.com/user-attachments/assets/1ef50e76-fddf-4272-a01e-a6ac4c3b80c2)
