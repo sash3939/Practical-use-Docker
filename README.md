@@ -46,7 +46,7 @@ See 'snap info docker' for additional versions.
 
 3. Mysql container with venv
 
-![image](https://github.com/user-attachments/assets/f2a2ec9c-1697-4fae-98c1-6df72d2b7c2f)
+![image](https://github.com/user-attachments/assets/196ebcab-89fb-43ac-b6d2-33b1f588dda9)
 ---
 
 4. [localhost:5000](http://localhost:5000/)
