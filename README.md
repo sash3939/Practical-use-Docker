@@ -147,7 +147,26 @@ docker login \
 ![image](https://github.com/user-attachments/assets/be5e4ab8-37ed-49cd-909f-3bb56f4db386)
 ---
 
+3. Собираем и заливаем образ
 
+- docker build -t python-app .
+
+## прооверяем, что образ залился
+- docker images
+
+![image](https://github.com/user-attachments/assets/150835f3-629c-431a-a50c-0b0a4800dcb6)
+---
+
+## Тэгируем и заливаем образ в Яндекс registry, указывая id registry и id папки (можно любое название) ##
+- docker tag python-app cr.yandex/your-registry-id/your-folder-id/python-app:latest
+- docker push cr.yandex/your-cloud-id/your-folder-id/my-python-app:latest
+
+![image](https://github.com/user-attachments/assets/178c4128-d156-42b7-bdfb-deaae53780b0)
+---
+
+![image](https://github.com/user-attachments/assets/7ff408c0-e94d-4585-93c1-113136a7adb3)
+---
+   
 ## Задача 3
 1. Изучите файл "proxy.yaml"
 2. Создайте в репозитории с проектом файл ```compose.yaml```. С помощью директивы "include" подключите к нему файл "proxy.yaml".
