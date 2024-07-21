@@ -129,6 +129,22 @@ Start main.py
 
    - yc container registry create --name test
 
+![list](https://github.com/user-attachments/assets/2f14bca4-e519-49ff-a611-e119dbe959fc)
+---
+
+2. Аутентификация локального docker в yandex container registry
+
+docker login \
+  --username oauth \
+  --password <OAuth-токен> \
+  cr.yandex
+
+
+![authentication](https://github.com/user-attachments/assets/1e63ef15-15db-4a5c-8593-ea1c876f9556)
+---
+
+
+
 ## Задача 3
 1. Изучите файл "proxy.yaml"
 2. Создайте в репозитории с проектом файл ```compose.yaml```. С помощью директивы "include" подключите к нему файл "proxy.yaml".
