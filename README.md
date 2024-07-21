@@ -82,6 +82,10 @@ Docker version 24.0.5, build ced0996
 ![image](https://github.com/user-attachments/assets/9a79a667-499e-4576-b129-315e0260fa76)
 ---
 
+запуск main.py для 3 задания
+![main.py](https://github.com/user-attachments/assets/bc0f4db0-aafb-4d56-8c60-2f304ca60546)
+---
+
 ![image](https://github.com/user-attachments/assets/5624707c-df27-42ac-b119-4bafbee5715c)
 ---
 
