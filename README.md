@@ -66,7 +66,14 @@ Docker version 24.0.5, build ced0996
 1. Сделан fork репозитория. Работа проводится в нем. По результатам скину ссылку на fork в данный репозиторий, где описываю действия.
    ## [https://github.com/sash3939/shvirtd-example-python](https://github.com/sash3939/shvirtd-example-python) ##
 
-2.   
+2. Dockerfile.python, dockerignore
+
+![image](https://github.com/user-attachments/assets/151a22ce-af53-45f9-831f-d81d65149cad)
+---
+
+![image](https://github.com/user-attachments/assets/02b67e90-130c-447a-9760-07ff61e69389)
+---
+
 
 3.   
 
