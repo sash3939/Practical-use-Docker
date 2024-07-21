@@ -208,7 +208,10 @@ docker login \
 ![curl](https://github.com/user-attachments/assets/00ac8ef6-b51b-482e-9836-c5c43310f561)
 ---
 
-5. 
+5. На скрине запрос команды и запрос.
+
+![image](https://github.com/user-attachments/assets/e32244f7-059c-42ba-8f65-c014a2bf183b)
+--- 
 
 
 
