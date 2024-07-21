@@ -210,8 +210,8 @@ docker login \
 
 5. На скрине запрос команды и запрос.
 
-![image](https://github.com/user-attachments/assets/e32244f7-059c-42ba-8f65-c014a2bf183b)
---- 
+![image](https://github.com/user-attachments/assets/f0875eec-4bc1-4ddb-835a-e9b49624403f)
+---
 
 6. Остановил проект. Sql запрос выше, он же и был в задании 5.
 
