@@ -64,7 +64,7 @@ Docker version 24.0.5, build ced0996
 
 ## Решение 1
 1. Сделан fork репозитория. Работа проводится в нем. По результатам скину ссылку на fork в данный репозиторий, где описываю действия.
-   ## https://github.com/sash3939/shvirtd-example-python ##
+   ## [https://github.com/sash3939/shvirtd-example-python](https://github.com/sash3939/shvirtd-example-python) ##
 
 2.   
 
