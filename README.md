@@ -173,7 +173,7 @@ docker login \
    ![image](https://github.com/user-attachments/assets/5e1b610d-d2e2-48f8-9751-707fff7f914a)
    ---
 
-   Отчет **vulnerabilities.csv** с Яндекс приложен в виде файла в репозитории
+5. Отчет **vulnerabilities.csv** с Яндекс приложен в виде файла в репозитории
 
 
 
