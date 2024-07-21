@@ -143,6 +143,7 @@ docker login \
 ---
 
 проверка
+
 ![image](https://github.com/user-attachments/assets/be5e4ab8-37ed-49cd-909f-3bb56f4db386)
 ---
 
