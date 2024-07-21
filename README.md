@@ -213,7 +213,10 @@ docker login \
 ![image](https://github.com/user-attachments/assets/e32244f7-059c-42ba-8f65-c014a2bf183b)
 --- 
 
+6. Остановил проект. Sql запрос выше, он же и был в задании 5.
 
+![image](https://github.com/user-attachments/assets/98b72d14-db81-4e26-bdf5-8b94a821111c)
+---
 
 ## Задача 4
 1. Запустите в Yandex Cloud ВМ (вам хватит 2 Гб Ram).
