@@ -139,10 +139,12 @@ docker login \
   --password <OAuth-токен> \
   cr.yandex
 
-
 ![authentication](https://github.com/user-attachments/assets/1e63ef15-15db-4a5c-8593-ea1c876f9556)
 ---
 
+проверка
+![image](https://github.com/user-attachments/assets/be5e4ab8-37ed-49cd-909f-3bb56f4db386)
+---
 
 
 ## Задача 3
