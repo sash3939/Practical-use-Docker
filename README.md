@@ -118,10 +118,16 @@ Start main.py
 
 ## Решение 2
 
+1. Установка yc tool
+   - curl -sSL https://storage.yandexcloud.net/yandexcloud-yc/install.sh | bash
+   - source "/root/.bashrc"
+   - yc init (вводим токен)
+   - выбираем folder (netology)
+   - выбираем ru-central1-a
 
+**И ТОЛЬКО ПОТОМ МЫ СОЗДАЕМ CONTAINER REGISTRY** **(УВАЖАЕМЫЕ ПРЕПОДАВАТЕЛИ, ВОТ КАК НУЖНО ПОЯСНЯТЬ, КОГДА ДЕЛАЕМ ЗАДАНИЕ)**
 
-
-
+   - yc container registry create --name test
 
 ## Задача 3
 1. Изучите файл "proxy.yaml"
