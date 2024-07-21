@@ -89,8 +89,16 @@ Docker version 24.0.5, build ced0996
 ---
 
 
-4.
+4. Внесли изменения в python код для управления названием используемой таблицы через ENV переменную
+Export TEST_STRING
 
+![image](https://github.com/user-attachments/assets/7de606a3-be30-4280-ad0a-53025529b2b8)
+---
+
+Start main.py
+
+![image](https://github.com/user-attachments/assets/f23940ad-a1a1-4cbd-af71-cd96e6f031b9)
+---
 
 
 ## Задача 2 (*)
