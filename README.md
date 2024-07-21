@@ -215,7 +215,7 @@ docker login \
 
 6. Остановил проект. Sql запрос выше, он же и был в задании 5.
 
-![image](https://github.com/user-attachments/assets/98b72d14-db81-4e26-bdf5-8b94a821111c)
+![image](https://github.com/user-attachments/assets/ad2908aa-1de7-4a0b-8b9b-ca01b3d24ac2)
 ---
 
 ## Задача 4
