@@ -205,7 +205,7 @@ docker login \
 
 4. Запустил проект локально с помощью docker compose. Вывод curl на скрине
 
-![curl](https://github.com/user-attachments/assets/00ac8ef6-b51b-482e-9836-c5c43310f561)
+![curl](https://github.com/user-attachments/assets/66801236-a5a0-40b0-bfa1-faf369ffe143)
 ---
 
 5. На скрине запрос команды и запрос.
