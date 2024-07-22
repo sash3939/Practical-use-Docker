@@ -285,7 +285,18 @@ docker login \
 
 2. Ручной запуск
 
+![image](https://github.com/user-attachments/assets/47e2904d-8c13-4cc7-85a3-54e8cd08e2a3)
+---
 
+3. Настройка через 1 минуту через crontab
+
+![image](https://github.com/user-attachments/assets/c208da61-b4d8-4e4b-8d4f-105adb0015e7)
+---
+
+4. Скриншот резервных копий
+
+![image](https://github.com/user-attachments/assets/b4bb5a9b-2315-45ec-8014-d87badbe5d99)
+---
 
 ## Задача 6 (*)
 Скачайте docker образ ```hashicorp/terraform:latest``` и скопируйте бинарный файл ```/bin/terraform``` на свою локальную машину, используя dive и docker save.
