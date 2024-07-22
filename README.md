@@ -376,5 +376,5 @@ sudo apt-get install runc
 ---
 
 - Запуск приложения
-sudo runc run mycontainerid
+sudo runc run <containerid>
 
