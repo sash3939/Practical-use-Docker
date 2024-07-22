@@ -276,11 +276,12 @@ docker login \
 ## Решение 5 (*)
 
 1. Скрипт
-   
-![image](https://github.com/user-attachments/assets/eb234c8d-a162-4ccc-9500-88dee6047b0a)
+
+![image](https://github.com/user-attachments/assets/0f228688-3f4b-4641-9165-fe4e19225628)
 ---
 
 ![Uploading image.png…]()
+
 
 
 
