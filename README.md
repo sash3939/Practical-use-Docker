@@ -353,9 +353,28 @@ ll
 Предложите способ извлечь файл из контейнера, используя только команду docker build и любой Dockerfile.  
 Предоставьте скриншоты  действий .
 
+## Решение 6.2 (**)
 
+![image](https://github.com/user-attachments/assets/b111f176-0640-41c7-984b-652bd41cfed5)
+---
+
+![image](https://github.com/user-attachments/assets/e23c12d2-5d0c-4c91-a4cc-da0070dc6d72)
+---
 
 
 ## Задача 7 (***)
 Запустите ваше python-приложение с помощью runC, не используя docker или containerd.  
-Предоставьте скриншоты  действий .
+Предоставьте скриншоты  действий.
+
+## Решение 7 (***)
+- Устанавливаем runC
+sudo apt-get install runc
+
+- Вносим изменение в config.json
+
+![image](https://github.com/user-attachments/assets/219ffbf9-044b-46d3-aa04-31760e345db2)
+---
+
+- Запуск приложения
+sudo runc run mycontainerid
+
