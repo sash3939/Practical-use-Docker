@@ -226,6 +226,32 @@ docker login \
 5. (Необязательная часть) Дополнительно настройте remote ssh context к вашему серверу. Отобразите список контекстов и результат удаленного выполнения ```docker ps -a```
 6. В качестве ответа повторите  sql-запрос и приложите скриншот с данного сервера, bash-скрипт и ссылку на fork-репозиторий.
 
+## Решение 4
+1. Создана виртуальная машина на Ubuntu 20.04
+
+![image](https://github.com/user-attachments/assets/f93ad649-4683-4a3d-9bc0-78d8540a1e83)
+---
+
+2. Выполнено соединение по ssh через терминал windows и установлен docker
+
+![image](https://github.com/user-attachments/assets/546940ad-59c2-4a60-91ac-76ab88f0d6d6)
+---
+
+3. Написан скрипт yandex-vm.sh на bash для автоматизации сборки
+
+![image](https://github.com/user-attachments/assets/01c6ea88-d501-4e0c-af03-78f2edcc5221)
+---
+
+4. Запуск скрипта yandex-vm.sh на ВМ в Yandex Cloud
+
+![image](https://github.com/user-attachments/assets/c6645d27-f5d1-4f4d-9c0c-0c10b9d6eb43)
+---
+
+![image](https://github.com/user-attachments/assets/5e696864-9238-4cd1-864c-888f64407b7a)
+---
+
+5.
+
 ## Задача 5 (*)
 1. Напишите и задеплойте на вашу облачную ВМ bash скрипт, который произведет резервное копирование БД mysql в директорию "/opt/backup" с помощью запуска в сети "backend" контейнера из образа ```schnitzler/mysqldump``` при помощи ```docker run ...``` команды. Подсказка: "документация образа."
 2. Протестируйте ручной запуск
