@@ -1,4 +1,4 @@
-[vulnerabilities.csv](https://github.com/user-attachments/files/16323957/vulnerabilities.csv)# Домашнее задание к занятию 5. «Практическое применение Docker»
+# Домашнее задание к занятию 5. «Практическое применение Docker»
 
 ---
 ## Примечание: Ознакомьтесь со схемой виртуального стенда [по ссылке](https://github.com/netology-code/shvirtd-example-python/blob/main/schema.pdf)
