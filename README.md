@@ -251,9 +251,20 @@ docker login \
 ---
 
 проверка запросов
+
 ![image](https://github.com/user-attachments/assets/b4ec7c6f-7ac1-434b-8c63-4c26cc6b90f3)
 ---
 
+5. SSH Context
+
+![image](https://github.com/user-attachments/assets/3b6c574e-c098-46ae-99d5-d5223f6a5a21)
+---
+  Переключение на контекст и отображение списка контекстов
+
+![image](https://github.com/user-attachments/assets/bdd1c01d-1de3-4852-8111-48c92c610f07)
+---
+
+6. Ссылка на проект на <a href="https://github.com/sash3939/shvirtd-example-python">Fork GitHub</a>
 
 
 ## Задача 5 (*)
