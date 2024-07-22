@@ -280,9 +280,10 @@ docker login \
 ![image](https://github.com/user-attachments/assets/0f228688-3f4b-4641-9165-fe4e19225628)
 ---
 
-![image](https://github.com/user-attachments/assets/d981db95-5fa6-4891-8227-e00801486a1c)
+![image](https://github.com/user-attachments/assets/41f2d525-1031-49ab-8621-9c37b6cdecb9)
 ---
 
+2. Ручной запуск
 
 
 
