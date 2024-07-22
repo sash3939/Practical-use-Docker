@@ -302,13 +302,57 @@ docker login \
 Скачайте docker образ ```hashicorp/terraform:latest``` и скопируйте бинарный файл ```/bin/terraform``` на свою локальную машину, используя dive и docker save.
 Предоставьте скриншоты  действий .
 
+
+## Решение 6 (*)
+
+Download hashicorp/terraform:latest
+
+![image](https://github.com/user-attachments/assets/a6e89cae-bac2-4a5d-afa0-d41aaf8ab566)
+---
+
+- curl -OL https://github.com/wagoodman/dive/releases/download/v0.11.0/dive_0.11.0_linux_amd64.deb
+- dpkg -i dive_0.11.0_linux_amd64.deb
+- dive -v
+
+![image](https://github.com/user-attachments/assets/2194e5d6-a450-4d36-9aac-d4450572d8ca)
+---
+
+- dive hashicorp/terraform
+
+![image](https://github.com/user-attachments/assets/083938cb-76ab-429b-b878-2b2f4d66f468)
+---
+
+- Скачиваем  и извлекаем необходимый файл, в нашем случае бинарный файл terraform
+
+![image](https://github.com/user-attachments/assets/c71084a7-8c17-4ab7-9db6-f414e37823e3)
+---
+
+
 ## Задача 6.1
 Добейтесь аналогичного результата, используя docker cp.  
 Предоставьте скриншоты  действий .
 
+## Решение 6.1
+
+- Создаём контейнер из снимка без запуска самого контейнера
+
+![image](https://github.com/user-attachments/assets/178a64e8-2707-4bad-8dc9-5a10c17415e8)
+---
+
+-  Скопируем из него в корневую папку бинарник Терраформ
+-  docker cp terraform01:/bin/terraform ./
+
+![image](https://github.com/user-attachments/assets/1e1ee36f-0184-4417-a726-80ad1dd8ce33)
+---
+
+
+
 ## Задача 6.2 (**)
 Предложите способ извлечь файл из контейнера, используя только команду docker build и любой Dockerfile.  
 Предоставьте скриншоты  действий .
+
+
+
 
 ## Задача 7 (***)
 Запустите ваше python-приложение с помощью runC, не используя docker или containerd.  
