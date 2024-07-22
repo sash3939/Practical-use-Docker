@@ -344,8 +344,10 @@ Download hashicorp/terraform:latest
 
 ![image](https://github.com/user-attachments/assets/1e1ee36f-0184-4417-a726-80ad1dd8ce33)
 ---
+ll
 
-
+![image](https://github.com/user-attachments/assets/187fa25c-6fe2-4e4f-9627-18e1cd6ae75b)
+---
 
 ## Задача 6.2 (**)
 Предложите способ извлечь файл из контейнера, используя только команду docker build и любой Dockerfile.  
